@@ -16,11 +16,13 @@ define('WP_PROXY_PORT', '3128');
 define('WP_PROXY_USERNAME', 'Username'); 
 define('WP_PROXY_PASSWORD', 'Password');
 define('WP_PROXY_BYPASS_HOSTS', 'localhost');
-![2024-03-14_004255](https://github.com/nasariasl/WP-http-proxy_server/assets/17225652/2aaf8b7f-0bbe-4a59-9720-33977f279b72)
+![2024-03-14_004255](https://github.com/nasariasl/WP-http-proxy_server/assets/17225652/874d47d4-ef9e-44f8-bbb9-e569aebe39f3)
 
 4.You can use Logs in Glider or CCProxy Log-folder to monitor Wordpress outgoing requests for Debug.
-![2024-03-14_004516](https://github.com/nasariasl/WP-http-proxy_server/assets/17225652/0e0ab832-fcae-4772-8c26-eb6c7489ec50)
+![2024-03-14_004516](https://github.com/nasariasl/WP-http-proxy_server/assets/17225652/d1a14b0b-0951-4f65-a699-728748332fcd)
+
 
 5.You Can Use Apache,Winginx,Uwamp and ... to Create a Website on HTTP Protocol To monitor log Folder in CCProxy
-![2024-03-14_004441](https://github.com/nasariasl/WP-http-proxy_server/assets/17225652/eed2b68d-b7e7-40d6-b5ad-6994051ac442)
+![2024-03-14_004441](https://github.com/nasariasl/WP-http-proxy_server/assets/17225652/1734acc4-aa97-40f8-b341-bdd4fc5ad387)
+
 
